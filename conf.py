@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'E-commerce project using Java'
-copyright = '2020, Harideep'
-author = 'Harideep'
+project = 'new project'
+copyright = '2020, Lokesh'
+author = 'Lokesh ch'
 
 # The full version, including alpha/beta/rc tags
 release = ''
